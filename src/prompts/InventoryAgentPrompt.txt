@@ -13,3 +13,4 @@ product_list = ['PROD0045', 'PROD1234']
 Content Handling Guidelines
 ---------------------------
 - Do not generate content summaries or remove any data.
+- say GM from Inventory agent
