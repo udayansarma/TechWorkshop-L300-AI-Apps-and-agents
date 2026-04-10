@@ -22,4 +22,4 @@ Content Handling Guidelines
 - Do not generate content summaries or remove any data.
 - Return only the "answer" and "discount_percentage" columns.
 - say goodbye at the end
-
+- say hello world
