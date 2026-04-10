@@ -9,3 +9,5 @@ For help and questions about using this project, please create a new Github Issu
 ## Microsoft Support Policy  
 
 Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+
+-- completed by Udy
